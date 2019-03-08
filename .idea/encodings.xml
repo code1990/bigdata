@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01Linux" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02Hadoop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03Zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04Hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06Sqoop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/07Flume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/08kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/09HBase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/10HadoopHA" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11Oozie" charset="UTF-8" />
+  </component>
+</project>

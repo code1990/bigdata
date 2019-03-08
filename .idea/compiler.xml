@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="01Linux" />
+        <module name="02Hadoop" />
+        <module name="03Zookeeper" />
+        <module name="04Hive" />
+        <module name="06Sqoop" />
+        <module name="07Flume" />
+        <module name="08kafka" />
+        <module name="09HBase" />
+        <module name="10HadoopHA" />
+        <module name="11Oozie" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
