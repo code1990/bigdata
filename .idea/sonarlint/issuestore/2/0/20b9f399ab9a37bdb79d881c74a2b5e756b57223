@@ -1,0 +1,6 @@
+
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ìç†Ý•-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ž½Ž¦ÿÿÿÿÿ
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8É•°ß•-
+dsquid:UselessImportCheck"9Remove this unused import 'com.javaxueyuan.tool.TxtTool'.(¼‘Ü“8É•°ß•-

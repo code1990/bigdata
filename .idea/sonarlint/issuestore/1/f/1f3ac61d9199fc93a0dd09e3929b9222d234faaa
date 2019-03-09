@@ -1,0 +1,19 @@
+
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8î§ÈÚ•-
+csquid:S2259M"@A "NullPointerException" could be thrown; "fw" is nullable here.(’™à€üÿÿÿÿ8†ÏˆÛ•-
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(•ğüÙ8À¹ÀÚ•-
+Fsquid:S1148%"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8î§ÈÚ•-
+U
+squid:S106X"9Replace this use of System.out or System.err by a logger.(ƒÚáB8­®ÛÚ•-
+Fsquid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8˜´íÚ•-
+Fsquid:S1148J"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂƒÛ•-
+Fsquid:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†ÏˆÛ•-
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8î§ÈÚ•-
+d
+squid:S8993"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8¤äìÚ•-
+Fsquid:S1148 "#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8î§ÈÚ•-
+Msquid:S2093C"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8°ó†Û•-
+jsquid:S2259"LA "NullPointerException" could be thrown; "bufferedReader" is nullable here.(©§şŠ8î§ÈÚ•-
+V
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ÏºĞÚ8ŠÕÛ•-

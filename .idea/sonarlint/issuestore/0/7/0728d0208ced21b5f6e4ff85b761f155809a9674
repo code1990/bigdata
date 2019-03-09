@@ -1,0 +1,29 @@
+
+[
+squid:S106b"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ËóŞŞ”-
+Ksquid:S1125`"(Remove the literal "true" boolean value.(Ã»ş¾şÿÿÿÿ8ËóŞŞ”-
+esquid:S2095J"HUse try-with-resources or close this "HBaseAdmin" in a "finally" clause.(ÍĞÉ#8î¦Ò‡•-
+V
+squid:S106^"9Replace this use of System.out or System.err by a logger.(¤«¬³8ËóŞŞ”-
+†squid:S1157`"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Ã»ş¾şÿÿÿÿ8ËóŞŞ”-
+`squid:CallToDeprecatedMethod4"2Remove this use of "HBaseAdmin"; it is deprecated.(ÍĞÉ#8î¦Ò‡•-
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(íéŸ¯şÿÿÿÿ8î¦Ò‡•-
+Š"squid:ClassVariableVisibilityCheck"PMake conf a static final constant or non-public and provide accessors if needed.(Ñ©Şøÿÿÿÿ8¹ëØ”-
+[squid:S2589`"8Remove this expression which always evaluates to "false"(Ã»ş¾şÿÿÿÿ8ËóŞŞ”-
+V
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ÀšıÆ8î¦Ò‡•-
+`squid:CallToDeprecatedMethodJ"2Remove this use of "HBaseAdmin"; it is deprecated.(ÍĞÉ#8î¦Ò‡•-
+Xsquid:S1854`"5Remove this useless assignment to local variable "x".(Ã»ş¾şÿÿÿÿ8ËóŞŞ”-
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(×şáŞÿÿÿÿÿ8î¦Ò‡•-
+Msquid:S1444"*Make this "public static conf" field final(Ñ©Şøÿÿÿÿ8¹ëØ”-
+asquid:CallToDeprecatedMethod+"2Remove this use of "HBaseAdmin"; it is deprecated.(ô±á8î¦Ò‡•-
+U
+squid:S1067"9Replace this use of System.out or System.err by a logger.(âÁ§Z8î¦Ò‡•-
+esquid:S20954"HUse try-with-resources or close this "HBaseAdmin" in a "finally" clause.(ÍĞÉ#8î¦Ò‡•-
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(›Õ‚8ËóŞŞ”-
+fsquid:S2095+"HUse try-with-resources or close this "HBaseAdmin" in a "finally" clause.(ô±á8î¦Ò‡•-
+[
+squid:S106X"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿ8ËóŞŞ”-
+nsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(’³ğ”ÿÿÿÿÿ8î¦Ò‡•-
