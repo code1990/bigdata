@@ -1,6 +1,5 @@
 package HelloWorld;
 
-
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
@@ -19,7 +18,7 @@ import java.util.Properties;
  * @Author: code1990
  * @Description:
  */
-public class kafkaProducer extends Thread{
+public class kafkaProducer extends Thread {
 
     private String topic;
 
@@ -33,7 +32,7 @@ public class kafkaProducer extends Thread{
         Producer producer = createProducer();
         int i = 0;
         while (true) {
-            producer.send(new KeyedMessage<Integer, String>(topic, "message: "+ i++));
+            producer.send(new KeyedMessage<Integer, String>(topic, "message: " + i++));
             try {
                 TimeUnit.SECONDS.sleep(1);
             } catch (InterruptedException e) {
@@ -41,13 +40,14 @@ public class kafkaProducer extends Thread{
             }
         }
     }
-    private Producer createProducer(){
+
+    private Producer createProducer() {
         Properties properties = new Properties();
         /*// 声明zk*/
-        properties.put("zookeeper.connect","localhost:2181");
+        properties.put("zookeeper.connect", "localhost:2181");
         properties.put("serializer.class", StringEncoder.class.getName());
         /*// 声明kafka*/
-        properties.put("metadata.broker.list","localhost:9092");
+        properties.put("metadata.broker.list", "localhost:9092");
         return new Producer<Integer, String>(new ProducerConfig(properties));
     }
 

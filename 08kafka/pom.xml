@@ -22,7 +22,7 @@
     </properties>
 
     <dependencies>
-        <!--kafka Hello World 开发-->
+        <!--kafka Hello World 开发 需要注释新的api 否则会出现报错-->
         <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka -->
         <dependency>
             <groupId>org.apache.kafka</groupId>
@@ -39,18 +39,18 @@
         <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
         <!--kafka分布式消息服务-->
         <!--kafka操作集群需要添加kafka-clients-->
-        <!--<dependency>-->
-            <!--<groupId>org.apache.kafka</groupId>-->
-            <!--<artifactId>kafka-clients</artifactId>-->
-            <!--<version>0.11.0.2</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-clients</artifactId>
+            <version>0.11.0.2</version>
+        </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-streams -->
         <!--kafka steaming 流式计算 减轻spark storm的压力 主要表现在数据清洗方面-->
-        <!--<dependency>-->
-            <!--<groupId>org.apache.kafka</groupId>-->
-            <!--<artifactId>kafka-streams</artifactId>-->
-            <!--<version>0.11.0.2</version>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-streams</artifactId>
+            <version>0.11.0.2</version>
+        </dependency>
 
     </dependencies>
 

@@ -2,50 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1de4ceb2-c28f-4b3e-8151-0af28c5d4278" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/OldProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/0728d0208ced21b5f6e4ff85b761f155809a9674" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08c0dcdddb21f3a94ef42fc33227a07d213eb65e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f3ac61d9199fc93a0dd09e3929b9222d234faaa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20b9f399ab9a37bdb79d881c74a2b5e756b57223" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2357c67444af33d34f220e7b474507d896b03a07" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/e/3eb052d7b9bcdc0d9b92dcc205684720836aefaf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/6/46ed8bda58c3727d9133f78586182196609cd29d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4aec6471c672d639ace2c6afdd0dab96bcaa6a4e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a26d4d01927eb72476c647c58a1ead69bb745cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/709d273914aae37af780b17a57cd3e474d2ca764" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7125c8de57520518cd687bdad1a6b7f5afa3acdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/7170707fe857a6057c73cf4570f9bab0f52c6852" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/722a9470ed7e8941cef7570d6e514ac2cdfb0011" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/7255672d5403b6757c5910bdea7179f9c35b8d0e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/7/772f49c1d2ccbd5ce63f7ce8b6a29e033efa2200" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/8240734feb1d035c8a52766f3cf2e67f05ab5a4c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aabd3550b2127eeb8be551615f5493fd88b1929a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b961a986371aebda84983b031c21468534a0b0dc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/da06058d0297f1ae4643464a176cb29c968b337d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eabbd4c33bc96fb091b6c523cf6ec96ae4dcd3cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ec9a69030c5313db06220ef63d943e8728943fca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f33e31767f238c9f267fbbdea1644ac105dc16aa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb83dbacb5fa41f4a8f217213bb895bb713f9849" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/NewConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/NewPartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/NewPartitionerProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/NewProducerWithCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/old/OldConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08kafka/src/main/java/old/OldPartitioner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/08kafka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/08kafka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/com/javaxueyuan/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/com/javaxueyuan/CallBackProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/com/javaxueyuan/CustomConsumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/com/javaxueyuan/CustomPartitioner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/com/javaxueyuan/CustomProducer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08kafka/src/test/java/com/javaxueyuan/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bigdata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08kafka/src/main/java/OldProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/08kafka/src/main/java/old/OldProducer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/01Linux/target/" />
     <ignored path="$PROJECT_DIR$/06Sqoop/target/" />
@@ -70,36 +38,18 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08kafka/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="150">
+              <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file leaf-file-name="OldProducer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/OldProducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewProducer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="kafkaProducer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="74" />
+            <state relative-caret-position="163">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,11 +57,96 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="kafkaConsumer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OldProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/old/OldProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewConsumer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewProducerWithCallBack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewProducerWithCallBack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1155#1171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OldConsumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/old/OldConsumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewPartitioner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewPartitioner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewPartitionerProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewPartitionerProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewProducer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kafkaConsumer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaConsumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="163">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,11 +177,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java" />
         <option value="$PROJECT_DIR$/08kafka/src/main/java/OldProducer.java" />
         <option value="$PROJECT_DIR$/08kafka/pom.xml" />
-        <option value="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/NewProducerWithCallBack.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java" />
         <option value="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaConsumer.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/old/OldProducer.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/old/OldPartitioner.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/NewPartitioner.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/NewPartitionerProducer.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/old/OldConsumer.java" />
+        <option value="$PROJECT_DIR$/08kafka/src/main/java/NewConsumer.java" />
       </list>
     </option>
   </component>
@@ -168,6 +210,12 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -264,6 +312,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="bigdata" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bigdata" type="462c0819:PsiDirectoryNode" />
+              <item name="08kafka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -282,6 +337,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -298,31 +356,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.kafkaProducer">
+  <component name="RunManager" selected="Application.NewConsumer">
+    <configuration name="NewConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewConsumer" />
+      <module name="08kafka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="NewPartitionerProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewPartitionerProducer" />
+      <module name="08kafka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="NewProducerWithCallBack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewProducerWithCallBack" />
+      <module name="08kafka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="OldConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="old.OldConsumer" />
+      <module name="08kafka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="OldProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="old.OldProducer" />
+      <module name="08kafka" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="old.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="kafkaConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld.kafkaConsumer" />
-      <module name="08kafka" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HelloWorld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="kafkaProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld.kafkaProducer" />
-      <module name="08kafka" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HelloWorld.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -421,13 +494,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Application.kafkaProducer" />
-      <item itemvalue="Application.kafkaConsumer" />
+      <item itemvalue="Application.OldProducer" />
+      <item itemvalue="Application.NewProducerWithCallBack" />
+      <item itemvalue="Application.NewPartitionerProducer" />
+      <item itemvalue="Application.OldConsumer" />
+      <item itemvalue="Application.NewConsumer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.kafkaProducer" />
-        <item itemvalue="Application.kafkaConsumer" />
+        <item itemvalue="Application.NewConsumer" />
+        <item itemvalue="Application.OldConsumer" />
+        <item itemvalue="Application.OldProducer" />
+        <item itemvalue="Application.NewPartitionerProducer" />
+        <item itemvalue="Application.NewProducerWithCallBack" />
       </list>
     </recent_temporary>
   </component>
@@ -451,12 +530,20 @@
       <workItem from="1569647180538" duration="646000" />
       <workItem from="1569649606736" duration="49000" />
       <workItem from="1569649815682" duration="156000" />
-      <workItem from="1569650008843" duration="4173000" />
+      <workItem from="1569650008843" duration="6793000" />
     </task>
+    <task id="LOCAL-00001" summary="kafka helloworld">
+      <created>1569654883149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569654883149</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5024000" />
+    <option name="totallyTimeSpent" value="7644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="744" extended-state="6" />
@@ -468,13 +555,13 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924837" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24187726" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.06137184" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31699347" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31699347" />
       <window_info anchor="bottom" id="Run with VisualVM" order="7" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Tail" order="7" />
@@ -499,6 +586,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kafka helloworld" />
+    <option name="LAST_COMMIT_MESSAGE" value="kafka helloworld" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/com/javaxueyuan/App.java">
@@ -536,42 +627,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/OldProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08kafka/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="150">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java">
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="74" />
+        <state relative-caret-position="163">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaConsumer.java">
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/HelloWorld/kafkaProducer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="163">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/old/OldPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="37" column="25" lean-forward="true" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewPartitionerProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewPartitioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewProducerWithCallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1155#1171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/old/OldConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="44" column="9" lean-forward="true" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/old/OldProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08kafka/src/main/java/NewConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
