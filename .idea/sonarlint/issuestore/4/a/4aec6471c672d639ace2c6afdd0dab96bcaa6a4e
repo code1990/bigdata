@@ -1,18 +1,0 @@
-
-V
-squid:S106W"9Replace this use of System.out or System.err by a logger.(•ðüÙ8°¦•Û•-
-U
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(ƒÚáB8°¦•Û•-
-V
-squid:S106R"9Replace this use of System.out or System.err by a logger.(ÏºÐÚ8è“·ß•-
-nsquid:CommentedOutCodeLine6"<This block of commented-out lines of code should be removed.(ÞÊµÕùÿÿÿÿ8—é¬ß•-
-Fsquid:S11482"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Œ¨”Û•-
-Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Þ“Û•-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÛä8ºØŸÛ•-
-jsquid:S2259 "GA "NullPointerException" could be thrown; "csvReader" is nullable here.(—áœ¹ýÿÿÿÿ8ˆ³¤Û•-
-d
-squid:S8990"BDo something with the "boolean" value returned by "createNewFile".(Ð’Íùÿÿÿÿ8Œ¨”Û•-
-Fsquid:S1148""#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ˆ³¤Û•-
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(üÑ€&8ÇÒ¨Û•-
-Fsquid:S1148P"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ŒŠöÜ•-
