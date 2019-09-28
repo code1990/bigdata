@@ -1,3 +1,5 @@
+package partitioner;
+
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.Producer;
 import org.apache.kafka.clients.producer.ProducerRecord;
@@ -33,7 +35,7 @@ public class NewPartitionerProducer {
         props.put("value.serializer", "org.apache.kafka.common.serialization.StringSerializer");
 
         // 自定义分区
-        props.put("partitioner.class", "NewPartitioner");
+        props.put("partitioner.class", "partitioner.NewPartitioner");
 
         Producer<String, String> producer = new KafkaProducer<>(props);
         producer.send(new ProducerRecord<String, String>("first", "1", "test"));
