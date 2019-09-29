@@ -1,16 +1,12 @@
-package HelloWorld;
+package helloworld;
 
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
-import kafka.Kafka;
-import kafka.consumer.Consumer;
 import kafka.javaapi.producer.Producer;
 import kafka.producer.KeyedMessage;
 import kafka.producer.ProducerConfig;
 import kafka.serializer.StringEncoder;
-
-import java.util.Properties;
 
 /**
  * @program: bigdata

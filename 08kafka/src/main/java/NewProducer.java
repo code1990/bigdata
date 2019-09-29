@@ -33,7 +33,7 @@ public class NewProducer {
 
         Producer<String, String> producer = new KafkaProducer<String, String>(props);
         for (int i = 0; i < 50; i++) {
-            producer.send(new ProducerRecord<String, String>("first", Integer.toString(i), "HelloWorld" + i));
+            producer.send(new ProducerRecord<String, String>("first", Integer.toString(i), "helloworld" + i));
         }
         producer.close();
     }
